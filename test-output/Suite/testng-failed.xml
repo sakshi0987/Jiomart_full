@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="navbar_buttons.Electronics_moduletest">
+        <methods>
+          <include name="Basepage"/>
+          <include name="print_subtotall"/>
+          <include name="createTest"/>
+          <include name="getResult"/>
+          <include name="EndTest"/>
+        </methods>
+      </class> <!-- navbar_buttons.Electronics_moduletest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

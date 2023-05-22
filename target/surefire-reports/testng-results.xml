@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-19T17:17:13 IST" name="Suite" finished-at="2023-05-19T17:18:32 IST" duration-ms="79269">
+    <groups>
+    </groups>
+    <test started-at="2023-05-19T17:17:13 IST" name="Test" finished-at="2023-05-19T17:18:32 IST" duration-ms="79269">
+      <class name="navbar_buttons.Electronics_moduletest">
+        <test-method is-config="true" signature="startTest()[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:13 IST" name="startTest" finished-at="2023-05-19T17:17:13 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="Homepage()[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:13 IST" name="Homepage" finished-at="2023-05-19T17:17:16 IST" duration-ms="3434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homepage -->
+        <test-method signature="logoverify()[pri:1, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:16 IST" name="logoverify" finished-at="2023-05-19T17:17:18 IST" duration-ms="1831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoverify -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:18 IST" name="getResult" finished-at="2023-05-19T17:17:18 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logoverify status=SUCCESS method=Electronics_moduletest.logoverify()[pri:1, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="sort_item()[pri:2, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:18 IST" name="sort_item" finished-at="2023-05-19T17:17:26 IST" duration-ms="7294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sort_item -->
+        <test-method signature="add_item1()[pri:3, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:26 IST" name="add_item1" finished-at="2023-05-19T17:17:31 IST" duration-ms="5519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_item1 -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:26 IST" name="getResult" finished-at="2023-05-19T17:17:26 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sort_item status=SUCCESS method=Electronics_moduletest.sort_item()[pri:2, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:31 IST" name="getResult" finished-at="2023-05-19T17:17:31 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=add_item1 status=SUCCESS method=Electronics_moduletest.add_item1()[pri:3, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="add_item2()[pri:4, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:31 IST" name="add_item2" finished-at="2023-05-19T17:17:40 IST" duration-ms="9262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_item2 -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:40 IST" name="getResult" finished-at="2023-05-19T17:17:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=add_item2 status=SUCCESS method=Electronics_moduletest.add_item2()[pri:4, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="add_item3()[pri:5, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:40 IST" name="add_item3" finished-at="2023-05-19T17:17:44 IST" duration-ms="4054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_item3 -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:44 IST" name="getResult" finished-at="2023-05-19T17:17:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=add_item3 status=SUCCESS method=Electronics_moduletest.add_item3()[pri:5, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="gotocart()[pri:6, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:44 IST" name="gotocart" finished-at="2023-05-19T17:17:47 IST" duration-ms="2783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotocart -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:47 IST" name="getResult" finished-at="2023-05-19T17:17:47 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=gotocart status=SUCCESS method=Electronics_moduletest.gotocart()[pri:6, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="print_subtotal()[pri:7, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:47 IST" name="print_subtotal" finished-at="2023-05-19T17:17:48 IST" duration-ms="1207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_subtotal -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:48 IST" name="getResult" finished-at="2023-05-19T17:17:48 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=print_subtotal status=SUCCESS method=Electronics_moduletest.print_subtotal()[pri:7, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="beauty_module()[pri:8, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:48 IST" name="beauty_module" finished-at="2023-05-19T17:17:55 IST" duration-ms="6697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beauty_module -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:55 IST" name="getResult" finished-at="2023-05-19T17:17:55 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=beauty_module status=SUCCESS method=Electronics_moduletest.beauty_module()[pri:8, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="gotocart1()[pri:9, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:17:55 IST" name="gotocart1" finished-at="2023-05-19T17:18:02 IST" duration-ms="7285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotocart1 -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:02 IST" name="getResult" finished-at="2023-05-19T17:18:02 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=gotocart1 status=SUCCESS method=Electronics_moduletest.gotocart1()[pri:9, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="home_improvement()[pri:10, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:02 IST" name="home_improvement" finished-at="2023-05-19T17:18:13 IST" duration-ms="10380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home_improvement -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:13 IST" name="getResult" finished-at="2023-05-19T17:18:13 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=home_improvement status=SUCCESS method=Electronics_moduletest.home_improvement()[pri:10, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="carfresh_totalitem()[pri:11, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:13 IST" name="carfresh_totalitem" finished-at="2023-05-19T17:18:15 IST" duration-ms="2200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carfresh_totalitem -->
+        <test-method signature="add_carfreshitem()[pri:12, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:15 IST" name="add_carfreshitem" finished-at="2023-05-19T17:18:16 IST" duration-ms="1134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_carfreshitem -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:15 IST" name="getResult" finished-at="2023-05-19T17:18:15 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=carfresh_totalitem status=SUCCESS method=Electronics_moduletest.carfresh_totalitem()[pri:11, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:16 IST" name="getResult" finished-at="2023-05-19T17:18:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=add_carfreshitem status=SUCCESS method=Electronics_moduletest.add_carfreshitem()[pri:12, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="add_electricalitem()[pri:13, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:16 IST" name="add_electricalitem" finished-at="2023-05-19T17:18:20 IST" duration-ms="4133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_electricalitem -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:20 IST" name="getResult" finished-at="2023-05-19T17:18:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=add_electricalitem status=SUCCESS method=Electronics_moduletest.add_electricalitem()[pri:13, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="add_carpentryitem()[pri:14, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:20 IST" name="add_carpentryitem" finished-at="2023-05-19T17:18:24 IST" duration-ms="3803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_carpentryitem -->
+        <test-method signature="sort_carpentryitem()[pri:15, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:24 IST" name="sort_carpentryitem" finished-at="2023-05-19T17:18:26 IST" duration-ms="2179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sort_carpentryitem -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:24 IST" name="getResult" finished-at="2023-05-19T17:18:24 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=add_carpentryitem status=SUCCESS method=Electronics_moduletest.add_carpentryitem()[pri:14, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="apply_filter()[pri:16, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:26 IST" name="apply_filter" finished-at="2023-05-19T17:18:26 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apply_filter -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:26 IST" name="getResult" finished-at="2023-05-19T17:18:26 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sort_carpentryitem status=SUCCESS method=Electronics_moduletest.sort_carpentryitem()[pri:15, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:26 IST" name="getResult" finished-at="2023-05-19T17:18:26 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=apply_filter status=SUCCESS method=Electronics_moduletest.apply_filter()[pri:16, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="slider()[pri:17, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:26 IST" name="slider" finished-at="2023-05-19T17:18:29 IST" duration-ms="2471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- slider -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:29 IST" name="getResult" finished-at="2023-05-19T17:18:29 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=slider status=SUCCESS method=Electronics_moduletest.slider()[pri:17, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="addcarpentry_item()[pri:18, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:29 IST" name="addcarpentry_item" finished-at="2023-05-19T17:18:29 IST" duration-ms="715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcarpentry_item -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:29 IST" name="getResult" finished-at="2023-05-19T17:18:29 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addcarpentry_item status=SUCCESS method=Electronics_moduletest.addcarpentry_item()[pri:18, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="cart_item()[pri:19, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:29 IST" name="cart_item" finished-at="2023-05-19T17:18:32 IST" duration-ms="2213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart_item -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:32 IST" name="getResult" finished-at="2023-05-19T17:18:32 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cart_item status=SUCCESS method=Electronics_moduletest.cart_item()[pri:19, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="print_subtotall()[pri:20, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:32 IST" name="print_subtotall" finished-at="2023-05-19T17:18:32 IST" duration-ms="506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_subtotall -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:32 IST" name="getResult" finished-at="2023-05-19T17:18:32 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=print_subtotall status=SUCCESS method=Electronics_moduletest.print_subtotall()[pri:20, instance:navbar_buttons.Electronics_moduletest@2e3967ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="EndTest()[pri:0, instance:navbar_buttons.Electronics_moduletest@2e3967ea]" started-at="2023-05-19T17:18:32 IST" name="EndTest" finished-at="2023-05-19T17:18:33 IST" duration-ms="540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+      </class> <!-- navbar_buttons.Electronics_moduletest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
